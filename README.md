@@ -29,7 +29,7 @@ Chart 2: Average Completion Time Across Service Categories
 
 -The Justice & Notary category recorded the highest average completion time at 37.7 minutes, followed by         Business & Licensing at 33.8 minutes.
 
--Evidence: While overall national digital adoption shows steady growth—rising from approximately 34% in early 2022 to over 61% by mid-2026—operational processing bottlenecks persist in specific service groups like Justice & Notary.
+-Evidence: While overall national digital adoption shows steady growth rising from approximately 34% in early 2022 to over 61% by mid-2026 operational processing bottlenecks persist in specific service groups like Justice & Notary.
 
 -Recommended Action: Allocate operational support and prioritize digital workflow automation specifically for the Justice & Notary category to reduce processing delays.
 
